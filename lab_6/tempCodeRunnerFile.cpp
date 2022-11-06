@@ -1,4 +1,0 @@
-
-
-    // singlyList.clear();
-    // singlyList.display();
